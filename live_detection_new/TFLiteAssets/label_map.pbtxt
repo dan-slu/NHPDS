@@ -1,0 +1,20 @@
+item{
+	id:1
+	name:'monkey'
+}
+item{
+	id:2
+	name:'porcupine'
+}
+item{
+	id:3
+	name:'wild boar'
+}
+item{
+	id:4
+	name:'human'
+}
+item{
+	id:5
+	name:'dog'
+}

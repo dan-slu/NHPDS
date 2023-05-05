@@ -1,0 +1,337 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+beagle0.jpg,580,870,dog,42,41,515,870
+beagle1.jpg,1000,655,dog,369,377,661,621
+beagle10.jpg,620,826,dog,101,154,498,826
+beagle11.jpg,900,600,dog,104,21,858,600
+beagle12.jpg,1200,627,dog,326,10,821,627
+beagle13.jpg,800,600,dog,130,19,662,600
+beagle14.jpg,960,1280,dog,234,254,834,975
+beagle15.jpg,1200,1600,dog,405,529,1042,1218
+beagle16.jpg,800,533,dog,10,54,724,485
+beagle17.jpg,900,600,dog,231,90,642,525
+beagle18.jpg,499,642,dog,4,1,499,600
+beagle19.jpg,620,400,dog,39,9,479,400
+beagle2.jpg,935,1752,dog,131,30,823,1718
+beagle20.jpg,1280,720,dog,517,196,867,601
+beagle21.jpg,270,480,dog,45,137,264,331
+beagle22.jpg,750,473,dog,3,2,739,457
+beagle23.jpg,585,439,dog,10,23,558,438
+beagle24.jpg,900,674,dog,42,227,888,581
+beagle25.jpg,1024,1024,dog,175,9,771,809
+beagle26.jpg,1920,691,dog,309,33,1135,691
+beagle27.jpg,1023,682,dog,24,75,1023,682
+beagle28.jpg,1023,683,dog,238,143,652,638
+beagle29.JPG,4928,3264,dog,1189,169,3714,3194
+beagle3.jpg,700,700,dog,1,1,700,700
+beagle30.jpg,472,700,dog,3,28,472,650
+beagle31.jpg,1001,1001,dog,134,124,895,842
+beagle32.jpg,720,540,dog,13,24,720,540
+beagle33.jpg,3480,2320,dog,1539,18,2807,1401
+beagle33.jpg,3480,2320,dog,239,518,1506,1718
+beagle33.jpg,3480,2320,dog,1189,951,3240,2284
+beagle34.jpg,1600,838,dog,250,29,1107,838
+beagle35.jpeg,1920,2560,dog,351,608,1760,2133
+beagle35.jpeg,1920,2560,human,151,1108,892,2560
+beagle36.jpg,1024,1024,dog,244,323,780,1024
+beagle37.jpg,640,640,dog,300,110,502,477
+beagle37.jpg,640,640,human,155,77,458,560
+beagle38.jpg,1000,695,dog,56,50,974,645
+beagle39.jpg,1280,720,dog,267,196,1101,720
+beagle39.jpg,1280,720,human,1,1,383,601
+beagle4.jpg,480,720,dog,131,35,452,714
+beagle40.jpg,602,1070,dog,1,215,532,1007
+beagle41.jpg,2987,991,dog,251,60,1065,931
+beagle41.jpg,2987,991,dog,1635,74,2522,897
+beagle41.jpg,2987,991,dog,2236,102,2893,917
+beagle5.jpg,2000,3000,dog,236,849,1945,2886
+beagle6.png,426,574,dog,39,26,426,567
+beagle7.jpg,800,532,dog,220,116,734,526
+beagle8.jpg,4000,2000,dog,1920,310,3220,2000
+beagle9.jpg,736,981,dog,74,1,638,937
+greylangur53.jpg,598,900,monkey,302,478,427,727
+greylangur53.jpg,598,900,monkey,339,567,390,708
+greylangur53.jpg,598,900,monkey,220,557,324,751
+greylangur54.jpg,550,367,monkey,384,106,517,356
+greylangur55.jpg,1100,733,monkey,525,173,906,616
+greylangur56.jpg,800,533,monkey,486,223,686,533
+greylangur56.jpg,800,533,monkey,55,85,444,502
+greylangur57.jpg,694,1024,monkey,228,122,544,1010
+greylangur58.jpg,427,640,monkey,98,16,257,287
+greylangur58.jpg,427,640,monkey,216,139,389,577
+greylangur58.jpg,427,640,monkey,122,298,292,524
+greylangur58.jpg,427,640,monkey,155,381,239,550
+greylangur59.jpg,1600,1155,monkey,564,152,1164,924
+greylangur60.jpg,1024,576,monkey,12,4,780,576
+greylangur61.jpg,1000,560,monkey,274,21,774,560
+greylangur62.jpg,533,800,monkey,227,73,464,524
+greylangur62.jpg,533,800,monkey,201,319,401,759
+greylangur63.jpg,468,498,monkey,24,234,270,498
+greylangur63.jpg,468,498,monkey,154,26,436,484
+greylangur64.jpg,240,160,monkey,98,20,205,156
+greylangur65.jpg,675,900,monkey,11,92,675,900
+greylangur66.jpg,600,484,monkey,144,97,462,448
+greylangur67.jpg,800,534,monkey,289,20,672,507
+greylangur68.jpg,910,1390,monkey,115,397,799,1153
+greylangur69.jpg,450,320,monkey,138,51,310,268
+greylangur70.jpg,1600,1323,monkey,293,708,643,1150
+greylangur70.jpg,1600,1323,human,728,358,985,1172
+greylangur71.jpg,640,360,monkey,22,1,497,360
+greylangur72.jpg,333,499,monkey,128,180,213,324
+greylangur73.jpg,240,320,monkey,3,33,208,300
+greylangur74.jpg,388,267,monkey,18,7,227,225
+greylangur75.jpg,450,311,monkey,206,93,281,237
+greylangur75.jpg,450,311,monkey,131,118,206,238
+greylangur76.jpg,899,1199,monkey,87,174,899,1197
+greylangur77.JPG,320,240,monkey,95,40,199,218
+human0.jpg,1000,750,human,387,198,813,750
+human1.jpg,2185,1500,human,32,55,1832,1500
+human10.jpg,1454,886,human,1,1,1454,877
+human10.jpg,1454,886,human,75,100,658,620
+human10.jpg,1454,886,human,517,256,908,492
+human10.jpg,1454,886,human,1211,342,1454,709
+human10.jpg,1454,886,human,131,156,319,373
+human10.jpg,1454,886,human,269,128,478,306
+human10.jpg,1454,886,human,414,189,550,314
+human10.jpg,1454,886,human,575,206,728,339
+human10.jpg,1454,886,human,572,120,661,200
+human10.jpg,1454,886,human,989,195,1078,295
+human10.jpg,1454,886,human,783,198,869,270
+human11.jpg,640,427,human,479,144,567,259
+human11.jpg,640,427,human,522,135,583,244
+human11.jpg,640,427,human,402,138,473,256
+human11.jpg,640,427,human,263,83,364,270
+human11.jpg,640,427,human,321,137,372,208
+human11.jpg,640,427,human,215,151,272,265
+human11.jpg,640,427,human,87,72,212,258
+human12.jpg,640,384,human,224,205,307,336
+human12.jpg,640,384,human,362,188,458,316
+human12.jpg,640,384,human,405,139,455,230
+human12.jpg,640,384,human,238,80,314,169
+human12.jpg,640,384,human,166,116,209,193
+human12.jpg,640,384,human,82,132,157,226
+human12.jpg,640,384,human,55,178,168,288
+human15.jpg,781,512,human,458,237,594,512
+human15.jpg,781,512,human,231,176,413,512
+human16.jpg,1280,720,human,56,68,606,720
+human18.jpg,2168,1445,human,484,117,1354,1445
+human20.jpg,900,600,human,142,102,746,600
+human21.jpg,1280,720,human,21,374,119,570
+human21.jpg,1280,720,human,133,314,269,634
+human22.jpg,320,215,human,178,16,296,195
+human23.jpg,1700,956,human,158,20,704,935
+human24.jpg,2184,1456,human,922,433,1582,1323
+human25.jpg,1280,720,human,3,150,281,720
+human25.jpg,1280,720,human,121,147,279,409
+human25.jpg,1280,720,human,626,200,862,475
+human26.jpg,953,1300,human,23,30,861,1300
+human27.jpg,1024,461,human,719,243,751,312
+human27.jpg,1024,461,human,921,271,943,319
+human28.jpg,5616,3744,human,2254,1129,3381,3698
+human28.jpg,5616,3744,human,1254,1652,2165,3744
+human29.jpg,1024,650,human,433,228,584,582
+human3.jpg,2067,1358,human,705,83,1133,828
+human30.jpg,957,1300,human,223,129,623,1249
+human31.jpg,483,640,human,86,25,297,627
+human32.jpg,680,390,human,506,142,575,253
+human33.jpg,720,576,human,38,111,196,392
+human34.jpg,1280,720,human,304,413,452,592
+human34.jpg,1280,720,human,352,399,502,594
+human34.jpg,1280,720,human,432,385,606,541
+human34.jpg,1280,720,human,575,371,705,548
+human34.jpg,1280,720,human,659,356,798,526
+human34.jpg,1280,720,human,728,375,854,497
+human34.jpg,1280,720,human,803,364,920,505
+human34.jpg,1280,720,human,903,372,996,490
+human34.jpg,1280,720,human,968,360,1085,501
+human35.jpg,1280,960,human,568,117,715,400
+human4.jpeg,720,521,human,94,146,628,521
+human4.jpeg,720,521,human,19,321,125,521
+human44.jpg,1024,683,human,365,143,714,683
+human5.jpg,800,450,human,49,207,148,368
+human5.jpg,800,450,human,159,219,262,392
+human5.jpg,800,450,human,263,206,344,365
+human5.jpg,800,450,human,389,166,488,268
+human5.jpg,800,450,human,381,217,487,389
+human5.jpg,800,450,human,481,202,573,376
+human5.jpg,800,450,human,577,216,654,398
+human5.jpg,800,450,human,657,189,755,387
+human6.jpg,1024,684,human,144,185,630,684
+human7.jpg,800,533,human,327,99,541,492
+human8.jpg,957,1300,human,78,55,787,1300
+human9.jpg,1268,800,human,72,47,1217,800
+macaque0.jpg,2000,1333,monkey,198,224,2000,1333
+macaque1.jpg,1224,816,monkey,1,52,945,816
+macaque10.jpg,538,738,monkey,45,102,496,684
+macaque11.jpg,1100,733,monkey,479,33,1100,733
+macaque11.jpg,1100,733,monkey,506,334,784,693
+macaque12.jpg,2840,2380,monkey,262,117,1942,2250
+macaque13.jpg,1365,2048,monkey,235,227,999,1893
+macaque14.jpg,622,900,monkey,55,161,547,810
+macaque15.jpg,1024,683,monkey,219,89,1024,683
+macaque16.jpg,4752,3168,monkey,2,13,3853,3168
+macaque17.jpg,1080,1080,monkey,478,104,1025,984
+macaque18.jpg,800,533,monkey,170,42,627,508
+macaque19.jpg,3658,3804,monkey,1181,350,3085,3490
+macaque2.jpg,1396,1047,monkey,287,165,931,914
+macaque20.jpg,2000,1333,monkey,560,357,1895,1044
+macaque20.jpg,2000,1333,monkey,821,632,1621,781
+macaque21.jpg,1100,733,monkey,72,43,545,733
+macaque22.jpg,1100,733,monkey,4,236,669,733
+macaque22.jpg,1100,733,monkey,234,2,1079,733
+macaque22.jpg,1100,733,monkey,864,1,1100,258
+macaque23.jpg,2000,1333,monkey,431,117,1988,1333
+macaque24.jpg,1000,666,monkey,11,3,838,666
+macaque25.jpg,5296,3531,monkey,48,157,3711,3231
+macaque26.jpg,1365,2048,monkey,233,355,1335,1949
+macaque26.jpg,1365,2048,monkey,142,1178,761,1996
+macaque27.jpg,666,1000,monkey,89,117,461,894
+macaque28.jpg,600,600,monkey,105,27,600,600
+macaque29.jpg,800,537,monkey,5,51,792,518
+macaque3.jpg,786,1024,monkey,32,76,768,1024
+macaque30.jpg,900,600,monkey,247,81,690,558
+macaque31.jpg,533,800,monkey,2,74,489,800
+macaque32.jpg,1024,696,monkey,212,14,950,696
+macaque33.jpg,1280,638,monkey,228,15,1013,638
+macaque34.jpg,2676,2195,monkey,699,556,1827,2124
+macaque35.jpg,1368,2100,monkey,5,374,1368,2100
+macaque36.jpg,900,586,monkey,244,71,563,557
+macaque37.jpg,606,600,monkey,1,39,425,600
+macaque38.jpg,533,800,monkey,2,78,503,796
+macaque39.jpg,1024,575,monkey,125,4,845,575
+macaque4.jpg,2412,2546,monkey,674,380,2295,2259
+macaque40.jpg,832,550,monkey,1,2,486,550
+macaque40.jpg,832,550,monkey,133,314,483,550
+macaque41.jpg,753,503,monkey,32,131,523,445
+macaque41.jpg,753,503,monkey,295,304,547,503
+macaque42.jpg,1236,820,monkey,369,100,829,820
+macaque43.jpg,800,533,monkey,145,84,765,458
+macaque44.jpg,988,988,monkey,307,79,712,854
+macaque45.jpg,812,1024,monkey,36,295,812,1024
+macaque45.jpg,812,1024,monkey,212,2,768,611
+macaque46.jpg,800,631,monkey,168,84,484,622
+macaque47.jpg,1375,1009,monkey,1,5,397,1009
+macaque47.jpg,1375,1009,monkey,128,365,473,1009
+macaque47.jpg,1375,1009,monkey,284,351,616,1009
+macaque47.jpg,1375,1009,monkey,402,56,724,865
+macaque47.jpg,1375,1009,monkey,676,152,1056,763
+macaque47.jpg,1375,1009,monkey,670,5,1375,1009
+macaque5.jpg,900,1350,monkey,10,94,864,1350
+macaque5.jpg,900,1350,monkey,341,679,858,1350
+macaque6.jpg,2000,1334,monkey,471,131,1367,1334
+macaque7.jpg,2000,1600,monkey,5,103,1747,1600
+macaque7.jpg,2000,1600,monkey,550,566,1582,1231
+macaque8.jpg,1440,960,monkey,1,84,1133,960
+macaque9.jpg,1600,1200,monkey,149,355,693,1088
+macaque9.jpg,1600,1200,monkey,446,362,976,1161
+macaque9.jpg,1600,1200,monkey,746,112,1288,868
+porcupine44.jpg,600,450,porcupine,15,85,593,440
+porcupine45.jpg,800,532,porcupine,29,31,709,436
+porcupine45.jpg,800,532,porcupine,620,3,800,284
+porcupine46.jpg,602,339,porcupine,192,3,530,316
+porcupine47.png,1000,625,porcupine,230,3,782,611
+porcupine48.jpg,610,404,porcupine,6,59,498,323
+porcupine49.jpg,3693,2956,porcupine,559,12,3393,2731
+porcupine50.jpg,300,300,porcupine,92,24,280,224
+porcupine51.jpg,850,566,porcupine,10,87,666,476
+porcupine52.jpg,650,431,porcupine,191,21,547,380
+porcupine53.jpg,1000,664,porcupine,108,9,1000,653
+porcupine54.JPG,1600,1067,porcupine,119,3,1477,1046
+porcupine55.jpg,1100,795,porcupine,112,147,1009,691
+porcupine56.jpg,1300,1054,porcupine,260,193,965,770
+porcupine57.jpg,800,549,porcupine,30,106,614,465
+porcupine58.jpg,1500,1113,porcupine,72,381,401,735
+porcupine58.jpg,1500,1113,porcupine,510,399,917,727
+porcupine58.jpg,1500,1113,porcupine,1004,403,1425,702
+porcupine59.jpg,800,600,porcupine,71,174,298,411
+porcupine59.jpg,800,600,porcupine,499,218,775,444
+porcupine60.jpg,600,450,porcupine,63,56,521,406
+porcupine61.jpg,800,533,porcupine,186,77,636,478
+porcupine62.JPG,600,600,porcupine,46,171,600,439
+porcupine63.jpg,650,431,porcupine,163,50,650,363
+porcupine64.jpg,1024,836,porcupine,20,66,1024,781
+porcupine65.jpg,499,333,porcupine,65,36,455,292
+porcupine65.jpg,499,333,porcupine,430,1,499,163
+porcupine65.jpg,499,333,porcupine,1,12,124,234
+porcupine66.jpg,519,416,porcupine,5,2,519,416
+porcupine67.jpg,1024,683,porcupine,1,68,925,647
+porcupine68.jpg,900,600,porcupine,35,64,887,582
+porcupine69.jpg,648,515,porcupine,67,68,608,515
+porcupine70.jpg,800,600,porcupine,175,141,708,435
+porcupine71.jpg,1600,1168,porcupine,41,48,1362,924
+porcupine72.jpg,240,160,porcupine,63,37,228,148
+porcupine73.jpg,1300,1001,porcupine,354,266,1009,795
+porcupine74.jpg,300,300,porcupine,1,26,288,295
+porcupine75.JPG,600,600,porcupine,54,172,600,419
+porcupine76.jpg,750,600,porcupine,31,149,704,480
+porcupine77.jpg,1000,1000,porcupine,30,32,986,848
+porcupine78.jpg,185,144,porcupine,21,30,175,116
+porcupine79.jpg,300,158,porcupine,40,20,236,149
+porcupine80.jpg,1000,664,porcupine,268,6,699,445
+porcupine81.jpg,635,483,porcupine,11,16,569,411
+porcupine82.jpg,300,240,porcupine,4,21,246,210
+porcupine83.jpg,600,450,porcupine,35,70,540,389
+porcupine84.jpg,639,421,porcupine,105,59,543,360
+porcupine85.jpg,1200,900,porcupine,118,142,1110,805
+porcupine86.jpg,800,494,porcupine,19,36,732,419
+porcupine89.jpg,800,533,porcupine,394,50,704,403
+porcupine90.jpg,300,300,porcupine,1,59,250,226
+porcupine91.jpg,450,353,porcupine,95,70,330,256
+porcupine92.jpg,876,1080,porcupine,71,95,745,904
+porcupine93.jpg,800,498,porcupine,343,57,645,395
+porcupine94.jpg,661,881,porcupine,76,4,661,881
+porcupine95.jpg,576,334,porcupine,7,62,541,309
+wildboar0.jpg,1600,1109,wild boar,96,137,1495,1026
+wildboar1.jpg,720,482,wild boar,185,7,720,461
+wildboar10.jpg,1024,683,wild boar,188,42,746,616
+wildboar11.jpg,1200,800,wild boar,317,99,925,665
+wildboar12.jpg,533,800,wild boar,33,111,533,800
+wildboar13.jpg,683,1024,wild boar,125,1,683,973
+wildboar14.jpg,850,567,wild boar,367,40,675,535
+wildboar15.jpg,1024,714,wild boar,47,184,717,597
+wildboar16.jpg,1200,800,wild boar,303,106,945,756
+wildboar17.jpg,400,302,wild boar,33,52,378,271
+wildboar18.jpg,810,540,wild boar,6,23,791,524
+wildboar19.jpeg,2048,1365,wild boar,129,550,1009,1152
+wildboar2.jpg,894,504,wild boar,136,17,770,488
+wildboar20.jpg,205,155,wild boar,36,10,171,140
+wildboar21.jpg,800,567,wild boar,50,159,633,486
+wildboar22.jpg,700,467,wild boar,146,173,487,367
+wildboar23.jpg,533,800,wild boar,1,40,531,800
+wildboar24.jpg,1600,1129,wild boar,383,212,1600,957
+wildboar25.jpg,800,533,wild boar,52,115,769,396
+wildboar25.jpg,800,533,wild boar,368,282,493,481
+wildboar25.jpg,800,533,wild boar,456,277,557,493
+wildboar25.jpg,800,533,wild boar,528,259,700,489
+wildboar26.jpeg,680,496,wild boar,36,123,592,465
+wildboar27.jpg,1600,1066,wild boar,1,1,1315,966
+wildboar28.JPG,1024,686,wild boar,49,93,886,649
+wildboar29.jpg,2000,1200,wild boar,234,850,991,1199
+wildboar29.jpg,2000,1200,wild boar,859,70,1707,1102
+wildboar3.jpg,3696,2448,wild boar,781,483,2911,2157
+wildboar30.jpg,900,603,wild boar,283,49,772,340
+wildboar30.jpg,900,603,wild boar,396,133,789,501
+wildboar31.jpg,1024,713,wild boar,119,172,697,614
+wildboar32.jpg,480,360,wild boar,23,31,465,327
+wildboar33.jpg,800,534,wild boar,198,61,800,500
+wildboar34.jpg,1600,992,wild boar,474,332,1534,914
+wildboar35.jpg,640,427,wild boar,137,13,640,427
+wildboar36.jpeg,800,448,wild boar,204,154,585,351
+wildboar36.jpeg,800,448,wild boar,569,220,798,346
+wildboar37.jpg,724,1600,wild boar,90,38,619,1291
+wildboar38.jpg,696,497,wild boar,139,110,585,440
+wildboar39.jpg,800,533,wild boar,45,1,797,507
+wildboar4.jpg,736,583,wild boar,69,19,664,512
+wildboar40.jpg,683,1024,wild boar,123,340,595,804
+wildboar41.jpg,533,800,wild boar,45,150,499,428
+wildboar42.jpg,600,400,wild boar,148,134,275,341
+wildboar42.jpg,600,400,wild boar,261,142,491,358
+wildboar43.jpg,1024,722,wild boar,141,135,972,597
+wildboar44.jpg,800,498,wild boar,15,127,687,448
+wildboar45.jpg,1197,759,wild boar,408,177,1151,609
+wildboar46.jpg,800,533,wild boar,123,191,401,469
+wildboar47.jpg,1023,731,wild boar,168,210,626,593
+wildboar5.jpg,2000,1333,wild boar,379,426,1338,1215
+wildboar6.jpg,1000,666,wild boar,220,63,951,652
+wildboar7.jpg,600,600,wild boar,1,111,518,576
+wildboar8.jpg,800,531,wild boar,196,116,745,495
+wildboar9.jpg,1200,800,wild boar,412,112,1045,741
